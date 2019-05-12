@@ -1,0 +1,9 @@
+{
+  "alarm_control_panel.css": {
+    "version": "1.1.4",
+    "local_location": "/local/alarm/alarm.css",
+    "remote_location": "https://github.com/akasma74/Hass-Custom-Alarm/blob/master/www/alarm/alarm.css",
+    "visit_repo": "https://github.com/akasma74/Hass-Custom-Alarm",
+    "changelog": "https://github.com/akasma74/historic_changelog.md"
+  }
+}
