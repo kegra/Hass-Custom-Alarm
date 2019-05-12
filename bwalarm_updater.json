@@ -1,0 +1,9 @@
+{
+    "alarm_control_panel.bwalarm": {
+        "version": "1.1.5_ak74",
+        "local_location": "/custom_components/bwalarm/alarm_control_panel.py",
+        "remote_location": "https://github.com/akasma74/Hass-Custom-Alarm/blob/master/custom_components/bwalarm/alarm_control_panel.py",
+        "visit_repo": "https://github.com/akasma74/Hass-Custom-Alarm",
+        "changelog": "https://github.com/akasma74/historic_changelog.md"
+    }
+}
